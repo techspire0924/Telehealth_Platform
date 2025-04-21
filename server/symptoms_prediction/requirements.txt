@@ -1,0 +1,4 @@
+sentence-transformers==3.0.0
+tokenizers==0.15.2
+transformers==4.38.0
+torch==2.3.1
